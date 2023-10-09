@@ -12,16 +12,6 @@ I'm a passionate Computer Engineer with expertise in AWS, Docker, Kubernetes, Py
 - 🐍 Python Developer
 - 🌐 Networking and Security 
 
-## What I'm Working On
-
-🚀 Currently, I'm working on various exciting projects that include:
-
-- [Project 1](link-to-project-1): A brief description of project 1.
-- [Project 2](link-to-project-2): A brief description of project 2.
-- [Project 3](link-to-project-3): A brief description of project 3.
-
-Feel free to explore my repositories to find more interesting projects!
-
 ## My Tech Stack
 
 I'm proficient in various technologies, including:
