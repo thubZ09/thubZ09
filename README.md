@@ -1,6 +1,5 @@
-# Hi there! 👋 I'm [Yash Thube]
+# Hi there!👋 I'm Yash Thube
 
-![Header](your-header-image-url.jpg)
 
 I'm a passionate Computer Engineer with expertise in AWS, Docker, Kubernetes, Python, tensorflow, pytorch, SQL, jenkins and Networking. Welcome to my GitHub profile, where I share my projects, contributions, and learning journey in the world of AI/ML and cloud computing.
 
