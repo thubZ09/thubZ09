@@ -23,14 +23,6 @@ I'm proficient in various technologies, including:
 - **DevOps**: CI/CD, Jenkins, Terraform
 
 ## Let's Connect
-
-📫 Feel free to reach out to me through the following channels:
-
-- [LinkedIn](https://www.linkedin.com/in/thube09/)
-- [Instagram](https://www.instagram.com/thubz__09/)
-
-
-
-Feel free to explore my repositories, contribute to my projects, or reach out for collaborations and discussions. Let's learn and grow together in the world of technology!
+and feel free to explore my repositories, contribute to my projects, or reach out for collaborations and discussions. Let's learn and grow together in the world of technology!
 
 
