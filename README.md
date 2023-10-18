@@ -2,7 +2,8 @@
 
 
 An insightful Computer Engineer who excels at creative approach to problem solving. Along with being responsible and ambitious, I like being organized. Always
-passionate and eager to learn new skills. Welcome to my GitHub profile, where I share my contributions, and learning journey in the world of AI/ML and cloud computing.
+passionate and eager to learn new skills. 
+Welcome to my GitHub profile, where I share my contributions, and learning journey in the world of AI/ML and cloud computing.
 
 ## About Me
 
