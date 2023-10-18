@@ -23,6 +23,7 @@ I'm proficient in various technologies, including:
 - **DevOps**           : CI/CD, Jenkins, Terraform, Ansible
 - **AI/ML**            : ANN, CNN, RNN, GAN, NLP, Tensorflow, Pytorch, scikit-learn, MLOps etc..
 - **Databases**        : MongoDB, Oracle, MySql
+- **OS**               : Linux, Windows, Ubuntu, Kali Linux
 - **Programming**      : Python, JavaScript, C++
 - **Networking**       : Network Protocols, Network Security, Networking tools, Cloud Networking, Topologies, Troubleshoot etc..
 
