@@ -8,7 +8,7 @@ Welcome to my GitHub profile, where I share my contributions, and learning journ
 ## About Me
 
 - ✔️ Cloud and AI/ML Enthusiast
-- ☁️ AWS, Azure, GCP, Oracle
+- ☁️ AWS, Oracle
 - 🐳 Kubernetes, Docker 
 - 🧑‍💻 Deep Learning, Neural network, Generative AI
 - 🌐 Networking and Security 
