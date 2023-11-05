@@ -30,7 +30,7 @@ I'm proficient in various technologies, including:
 ## Let's Connect
 and feel free to explore my repositories, contribute to my projects, or reach out for collaborations and discussions. Let's learn and grow together in the world of technology!
 
-Don't forget to check out my (https://medium.com/@thube09) where I share my Projects and Blogs...
+Don't forget to check out my (https://thube09.hashnode.dev/) where I share my Projects and Blogs...
 
 
 
