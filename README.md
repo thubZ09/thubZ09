@@ -10,7 +10,7 @@ Welcome to my GitHub profile, where I share my contributions, and learning journ
 - ✔️ Cloud and AI/ML Enthusiast
 - ☁️ AWS, Oracle
 - 🐳 Kubernetes, Docker 
-- 🧑‍💻 Deep Learning, Neural network, Generative AI
+- 🧑‍💻 Deep Learning, LLM's, Generative AI
 - 🌐 Networking and Security 
 
 ## My Tech Stack
@@ -21,8 +21,8 @@ I'm proficient in various technologies, including:
 - **Containerization** : Docker
 - **Orchestration**    : Kubernetes
 - **DevOps**           : CI/CD, Jenkins, Terraform, Ansible
-- **AI/ML**            : ANN, CNN, RNN, GAN, NLP, Tensorflow, Pytorch, scikit-learn, MLOps etc..
-- **Databases**        : MongoDB, Oracle, MySql
+- **AI/ML**            : ANN, CNN, RNN, GAN, NLP, Tensorflow, Pytorch, MLOps etc..
+- **Databases**        : DYnamoDB, MongoDB, MySql
 - **OS**               : Linux, Windows, Ubuntu, Kali Linux
 - **Programming**      : Python, JavaScript, C++
 - **Networking**       : Network Protocols, Network Security, Networking tools, Cloud Networking, Topologies, Troubleshoot etc..
@@ -30,7 +30,7 @@ I'm proficient in various technologies, including:
 ## Let's Connect
 and feel free to explore my repositories, contribute to my projects, or reach out for collaborations and discussions. Let's learn and grow together in the world of technology!
 
-Don't forget to check out my (https://thube09.hashnode.dev/) where I share my Projects and Blogs...
+Don't forget to check out my (https://thube09.hashnode.dev/) / (https://medium.com/@thube09) where I share my learning journey through Blogs...
 
 
 
