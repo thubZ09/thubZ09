@@ -17,11 +17,11 @@ Welcome to my GitHub profile, where I share my contributions, and learning journ
 
 I'm proficient in various technologies, including:
 
-- **Cloud Platform**   : AWS (EC2, S3, Lambda, EKS, ECS, EBS, VPC, IAM, Route53, RDS , Cloudformation, Kinesis etc..)
+- **Cloud Platform**   : AWS (EC2, S3, Lambda, EKS, ECS, EBS, VPC, IAM, Step Functions, Route53, RDS , Cloudformation, Sagemaker, Kinesis, Polly etc..)
 - **Containerization** : Docker
 - **Orchestration**    : Kubernetes
-- **DevOps**           : CI/CD, Jenkins, Terraform, Ansible
-- **AI/ML**            : ANN, CNN, RNN, GAN, NLP, Tensorflow, Pytorch, MLOps etc..
+- **DevOps**           : CI/CD, Jenkins, Terraform, github actions
+- **AI/ML**            : ANN, CNN, RNN, GAN, NLP, RAG, Tensorflow, Pytorch, MLOps etc..
 - **Databases**        : DynamoDB, MongoDB, MySql
 - **OS**               : Linux, Windows, Ubuntu, Kali Linux
 - **Programming**      : Python, JavaScript
