@@ -22,15 +22,15 @@ I'm proficient in various technologies, including:
 - **Orchestration**    : Kubernetes
 - **DevOps**           : CI/CD, Jenkins, Terraform, Ansible
 - **AI/ML**            : ANN, CNN, RNN, GAN, NLP, Tensorflow, Pytorch, MLOps etc..
-- **Databases**        : DYnamoDB, MongoDB, MySql
+- **Databases**        : DynamoDB, MongoDB, MySql
 - **OS**               : Linux, Windows, Ubuntu, Kali Linux
-- **Programming**      : Python, JavaScript, C++
+- **Programming**      : Python, JavaScript
 - **Networking**       : Network Protocols, Network Security, Networking tools, Cloud Networking, Topologies, Troubleshoot etc..
 
 ## Let's Connect
-and feel free to explore my repositories, contribute to my projects, or reach out for collaborations and discussions. Let's learn and grow together in the world of technology!
+and feel free to explore my repositories, contribute to my projects, or reach out for collaborations and discussions. Let's learn and grow together!
 
-Don't forget to check out my (https://thube09.hashnode.dev/) / (https://medium.com/@thube09) where I share my learning journey through Blogs...
+Don't forget to check out my (https://www.instagram.com/thubzai0/0) where I share my artworks and (https://medium.com/@thube09) where I share my learning journey through Blogs...
 
 
 
