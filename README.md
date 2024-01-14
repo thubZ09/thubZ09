@@ -19,12 +19,12 @@ I'm proficient in various technologies, including:
 
 - **Cloud Platform**   : AWS (EC2, S3, Lambda, EKS, ECS, EBS, VPC, IAM, Step Functions, Route53, RDS , Cloudformation, Sagemaker, Kinesis, Polly etc..)
 - **Containerization** : Docker
-- **Orchestration**    : Kubernetes
+- **Orchestration**    : Kubernetes, Amazon ECS
 - **DevOps**           : CI/CD, Jenkins, Terraform, github actions
-- **AI/ML**            : ANN, CNN, RNN, GAN, NLP, RAG, Tensorflow, Pytorch, MLOps etc..
+- **AI/ML**            : ANN, CNN, RNN, GAN, NLP, RAG, Langchain, Tensorflow, Pytorch, MLOps etc..
 - **Databases**        : DynamoDB, MongoDB, MySql
 - **OS**               : Linux, Windows, Ubuntu, Kali Linux
-- **Programming**      : Python, JavaScript
+- **Security**         : IAM, Wireshark, VPN, KMS
 - **Networking**       : Network Protocols, Network Security, Networking tools, Cloud Networking, Topologies, Troubleshoot etc..
 
 ## Let's Connect
