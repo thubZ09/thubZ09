@@ -29,7 +29,7 @@ I'm proficient in various technologies, including:
 ## Let's Connect
 and feel free to explore my repositories, contribute to my projects, or reach out for collaborations and discussions. Let's learn and grow together!
 
-Don't forget to check out my (https://www.instagram.com/thubzai0/0) where I share my artworks and (https://medium.com/@thube09) where I share my learning journey through Blogs...
+Don't forget to check out (https://medium.com/@thube09) where I share my learning journey through Blogs...
 
 
 
