@@ -1,30 +1,18 @@
 # Hi there!👋 I'm Yash Thube
 
 
-An insightful Computer Engineer who excels at creative approach to problem solving. Along with being responsible and ambitious, I like being organized. Always
-passionate and eager to learn new skills. 
+Creative problem-solver in AI ML, and Cloud. Constantly learning, always experimenting, driven by a passion to turn bold ideas into real-world solutions. 
 
-## About Me
+## My Tech Stack 🤖
 
-- ✔️ Cloud and AI/ML Enthusiast
-- ☁️ AWS, Oracle
-- 🐳 Kubernetes, Docker 
-- 🧑‍💻 Deep Learning, LLM's, Generative AI
-- 🌐 Networking and Security 
-
-## My Tech Stack
-
-I'm proficient in various technologies, including:
-
-- **Cloud Platform**   : AWS (EC2, S3, Lambda, EKS, ECS, EBS, VPC, IAM, Step Functions, Route53, RDS , Cloudformation, Sagemaker, Kinesis, Polly etc..)
+- **Cloud Platform**   : AWS ML Services (Sagemaker, Polly, Rekognition, Lex, Comprehend) and Serverless services (Lambda, API Gateway, DynamoDB, Stepfunctions, SQS, SNS)
 - **Containerization** : Docker
 - **Orchestration**    : Kubernetes, Amazon ECS
 - **DevOps**           : CI/CD, Jenkins, Terraform, github actions
-- **AI/ML**            : ANN, CNN, RNN, GAN, NLP, RAG, Langchain, Tensorflow, Pytorch, MLOps etc..
+- **AI/ML**            : Neural Networks, NLP, RAG, Fine tuning, Pytorch, Open Source ( Langchain, Llama Index, Hugging Face, PyTorch, Transformers and Diffusers), MLOps
 - **Databases**        : DynamoDB, MongoDB, MySql
-- **OS**               : Linux, Windows, Ubuntu, Kali Linux
-- **Security**         : IAM, Wireshark, VPN, KMS
-- **Networking**       : Network Protocols, Network Security, Networking tools, Cloud Networking, Topologies, Troubleshoot etc..
+- **OS**               : Linux, Windows, Ubuntu, 
+
 
 ## Let's Connect
 and feel free to explore my repositories, contribute to my projects, or reach out for collaborations and discussions. Let's learn and grow together!
