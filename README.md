@@ -9,7 +9,7 @@ Creative problem-solver in AI ML and Cloud. Constantly learning, always experime
 - **Containerization** : Docker
 - **Orchestration**    : Kubernetes, Amazon ECS
 - **DevOps**           : CI/CD, Jenkins, Terraform, github actions
-- **AI/ML**            : Neural Networks, NLP, RAG, Fine tuning, LLM, Prompt Engineering, Open Source ( Langchain, Llama Index, Hugging Face, PyTorch, Transformers and Diffusers), MLOps
+- **AI/ML**            : Neural Networks, NLP, RAG, Fine tuning, LLM, Prompt Engineering, Open Source ( Langchain, Llama Index, Hugging Face, PyTorch, Transformers, Weights & Bias), MLOps
 
 
 ## Let's Connect
