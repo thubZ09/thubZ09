@@ -1,7 +1,7 @@
 # Hi there!👋 I'm Yash Thube
 
 
-Creative problem-solver in AI ML, and Cloud. Constantly learning, always experimenting, driven by a passion to turn bold ideas into real-world solutions. 
+Creative problem-solver in AI ML and Cloud. Constantly learning, always experimenting, driven by a passion to turn bold ideas into real-world solutions. 
 
 ## My Tech Stack 🤖
 
@@ -10,8 +10,6 @@ Creative problem-solver in AI ML, and Cloud. Constantly learning, always experim
 - **Orchestration**    : Kubernetes, Amazon ECS
 - **DevOps**           : CI/CD, Jenkins, Terraform, github actions
 - **AI/ML**            : Neural Networks, NLP, RAG, Fine tuning, LLM, Prompt Engineering, Open Source ( Langchain, Llama Index, Hugging Face, PyTorch, Transformers and Diffusers), MLOps
-- **Databases**        : DynamoDB, MySql
-- **OS**               : Linux, Windows, Ubuntu
 
 
 ## Let's Connect
